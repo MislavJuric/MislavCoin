@@ -2,16 +2,16 @@
 
 MislavCoin is an ERC-20 token I implemented. The intention was to familiarize myself with the blockchain development related tools and I think the project served its purpose. 
 
-During the project, I familiarized myself with how to:
+During the project, I familiarized myself with:
 
-- develop smart contracts in Solidity (paying attention to code quality and security)
-- use development tools such as Hardhat, Truffle and Ganache
-- test my smart contracts locally
-- write tests for smart contracts
+- developing smart contracts in Solidity (paying attention to code quality and security)
+- using development tools such as Hardhat, Truffle and Ganache
+- testing my smart contracts locally
+- writing tests for smart contracts
 - JavaScript and TypeScript programming languages
-- write deployment scripts for smart contracts
-- deploy smart contracts to testnets
-- create a Uniswap liqudity pool (pictured below)
+- writing deployment scripts for smart contracts
+- deploying smart contracts to testnets
+- creating a Uniswap liqudity pool (pictured below)
 
 ![MislavCoin Uniswap liqudity pool](Uniswap_liqudity_pool_MislavCoin_ETH.png)
 
