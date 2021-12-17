@@ -1,0 +1,6 @@
+MislavCoinv3 Rinkeby testnet address: 0xA5C713e0f24E64Fe40FcD1DEb7Cd52558fAD85fE
+MislavCoinSupply Rinkeby tesnet address: 0x9DEC254bcdc1784E5eaf4462C80734FbA815FB35
+
+Note that MislavCoinv3 Rinkeby testnet address is the address of the ERC-20 interface; the actual supply is located where MislavCoinSupply Rinkeby tesnet address is
+
+MislavCoin on Etherscan: https://rinkeby.etherscan.io/token/0x9DEC254bcdc1784E5eaf4462C80734FbA815FB35?a=0x7e6ac0baedc7440533a0475f9bc2e1bc6ee733ae
