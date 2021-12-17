@@ -8,6 +8,7 @@ During the project, I familiarized myself with how to:
 - use development tools such as Hardhat, Truffle and Ganache
 - test my smart contracts locally
 - write tests for smart contracts
+- JavaScript and TypeScript programming languages
 - write deployment scripts for smart contracts
 - deploy smart contracts to testnets
 - create a Uniswap liqudity pool (pictured below)
